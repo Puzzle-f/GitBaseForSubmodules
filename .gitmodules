@@ -1,0 +1,3 @@
+[submodule "GitSubmodule1"]
+	path = GitSubmodule1
+	url = https://github.com/Puzzle-f/GitSubmodule1
